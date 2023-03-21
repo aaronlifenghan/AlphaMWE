@@ -23,7 +23,7 @@ If you are interested in including your native languages into AlphaMWE (currentl
 
 # Download multilingual parallel corpora (en, de, zh, pl, ar (working), it (working) | English-German-Chinese-Italian-Arabic)
 
-![alt text](https://drive.google.com/file/d/1L5LLZpKNrf5RPnQUllqu_CijO_AtUAvi/view?usp=share_link)
+![alt text](https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Polish.png)
 
 
 https://drive.google.com/drive/folders/1ikZ9nK1t-MlFjQ_PCvX_YCNooujGdyVO?usp=sharing 
