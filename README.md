@@ -24,7 +24,7 @@ If you are interested in including your native languages into AlphaMWE (currentl
 # [Download](https://drive.google.com/drive/folders/1ikZ9nK1t-MlFjQ_PCvX_YCNooujGdyVO?usp=sharing ) multilingual parallel corpora (en, de, zh, pl, ar (working), it (working) | English-German-Chinese-Italian-Arabic)
 
 
-![alphaMWE-Polish](https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Polish.png | width=100)
+<img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Polish.png" width="100" height="100">
 ![alphaMWE-Italian](https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-AlphaMWE-italiano.png | width=100)
 ![alphaMWE-Chinese](https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Chinese.png)
 
