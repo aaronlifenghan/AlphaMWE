@@ -33,9 +33,10 @@ If you are interested in including your native languages into AlphaMWE (currentl
 
 # paper & presentation
 Welcome to read our paper and the presentations
+
 [paper](https://arxiv.org/abs/2011.03783)
-[oral] (https://youtu.be/KiuF5JdOlLw)
-[ppt] (https://es.slideshare.net/mobile/AaronHanLiFeng/alphamwe-construction-of-multilingual-parallel-corpora-with-mwe-annotations-ppt4ws)
+[oral](https://youtu.be/KiuF5JdOlLw)
+[ppt](https://es.slideshare.net/mobile/AaronHanLiFeng/alphamwe-construction-of-multilingual-parallel-corpora-with-mwe-annotations-ppt4ws)
 
 
 # Citation (initial publication in proceedings):
