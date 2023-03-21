@@ -23,7 +23,8 @@ If you are interested in including your native languages into AlphaMWE (currentl
 
 # [Download](https://drive.google.com/drive/folders/1ikZ9nK1t-MlFjQ_PCvX_YCNooujGdyVO?usp=sharing ) multilingual parallel corpora (en, de, zh, pl, ar (working), it (working) | English-German-Chinese-Italian-Arabic)
 
-<img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Arabic.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Chinese.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-German.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-AlphaMWE-italiano.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Polish.png" width="100">
+
+<img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Arabic.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Chinese.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-English.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-German.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-AlphaMWE-italiano.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Polish.png" width="100">
 
 
 
