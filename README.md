@@ -25,8 +25,8 @@ If you are interested in including your native languages into AlphaMWE (currentl
 
 
 <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Polish.png" width="100" height="100">
-![alphaMWE-Italian](https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-AlphaMWE-italiano.png | width=100)
-![alphaMWE-Chinese](https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Chinese.png)
+<img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-AlphaMWE-italiano.png" width=100>
+<img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Chinese.png" width=100>
 
 
 
