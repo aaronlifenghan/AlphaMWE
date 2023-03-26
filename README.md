@@ -21,7 +21,7 @@ License: since we use the English PARSEME dataset, we adopt the same license as 
 
 If you are interested in including your native languages into AlphaMWE (currently involved: English/Chinese/German/Polish/ working:Arabic/Italian/Spanish), please get in touch. We do think this is a good contribution to various native language processing in machine / AI era, in addition to lexical studies. 
 
-# [Download](https://drive.google.com/drive/folders/1ikZ9nK1t-MlFjQ_PCvX_YCNooujGdyVO?usp=sharing ) multilingual parallel corpora (en, de, zh, pl, ar (working), it (working) | English-German-Chinese-Italian-Arabic)
+# [Download](https://drive.google.com/drive/folders/1ikZ9nK1t-MlFjQ_PCvX_YCNooujGdyVO?usp=sharing ) multilingual parallel corpora (en, de, zh, pl, ar (working), it (working) | English-German-Chinese-Polish-Italian-Arabic)
 
 
 <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Arabic.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Chinese.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-English-.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-German.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-AlphaMWE-italiano.png" width=100> <img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Polish.png" width="100">
