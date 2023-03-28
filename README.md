@@ -115,7 +115,7 @@ Dr. Ricardo Bango coming-on-way news
 
 
 # Acknowledgment
-We are especially grateful to all the colleagues who contributed to the creation of this open source corpus from each language pair. We thank the support and discussion we received from Roise McGagh, Paolo Bolzoni, Lorin Sweeney, Eoin Treacy and Yi Lu on the corpus in various ways.
+We are especially grateful to all the colleagues who contributed to the creation of this open source corpus from each language pair. We thank the support and discussion we received from Roise McGagh, Paolo Bolzoni, Lorin Sweeney, Eoin Treacy and Yi Lu on the corpus in various ways. This open research project has been partially funded by ADAPT Research Centre, DCU, Ireland, and University of Manchester, UK.
 
 
 # news:
