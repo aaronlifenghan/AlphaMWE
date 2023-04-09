@@ -15,7 +15,7 @@ we believe AlphaMWE is an asset for cross-lingual and multilingual research, suc
 
 The original English source repo (https://gitlab.com/parseme/parseme_corpus_en)
 
-Five portions of the files from ‘aa to ae’: ‘Ab’ portion contain some ‘mature phrase/content’
+Five portions of the files from ‘aa to ae’, 150 segments each.
 
 License: since we use the English PARSEME dataset, we adopt the same license as the original dataset, i.e. CC-BY-SA 4.0
 
