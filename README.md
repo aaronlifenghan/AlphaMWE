@@ -44,7 +44,7 @@ Welcome to read our paper and the presentations
 
 Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. Forthcoming in Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX) @COLING-2020, pages 44--57. Barcelona, Spain (Online). Association for Computational Linguistics.
 
-Mohamed, Najet Hadj, Malak Rassem, Lifeng Han, and Goran Nenadic. "AlphaMWE-Arabic: Arabic Edition of Multilingual Parallel Corpora with Multiword Expression Annotations." (2023).
+Mohamed, Najet Hadj, Malak Rassem, Lifeng Han, and Goran Nenadic. "AlphaMWE-Arabic: Arabic Edition of Multilingual Parallel Corpora with Multiword Expression Annotations." (2023). [Forthcoming](https://www.researchgate.net/profile/Lifeng-Han-3/publication/369327101_AlphaMWE-Arabic_Arabic_Edition_of_Multilingual_Parallel_Corpora_with_Multiword_Expression_Annotations/links/64149f2a315dfb4cce89d931/AlphaMWE-Arabic-Arabic-Edition-of-Multilingual-Parallel-Corpora-with-Multiword-Expression-Annotations.pdf) in RANLP2023.
 
 @inproceedings{han-etal-2020-alphamwe,
     title = "{A}lpha{MWE}: Construction of Multilingual Parallel Corpora with {MWE} Annotations",
@@ -127,7 +127,7 @@ We are especially grateful to all the colleagues who contributed to the creation
 
 
 # news:
-AlphaMWE-Arabic is accepted to present in [RANLP2023](https://ranlp.org/ranlp2023/) Conference: Recent Advances in Natural Language Processing, to be held in Varna, Bulgaria.
+[AlphaMWE-Arabic](https://www.researchgate.net/profile/Lifeng-Han-3/publication/369327101_AlphaMWE-Arabic_Arabic_Edition_of_Multilingual_Parallel_Corpora_with_Multiword_Expression_Annotations/links/64149f2a315dfb4cce89d931/AlphaMWE-Arabic-Arabic-Edition-of-Multilingual-Parallel-Corpora-with-Multiword-Expression-Annotations.pdf) is accepted to present in [RANLP2023](https://ranlp.org/ranlp2023/) Conference: Recent Advances in Natural Language Processing, to be held in Varna, Bulgaria.
 
 AlphaMWE was presented in MWE-LEX@COLING2020 on December 13th. Tereska and Sonia were present together with Lifeng during the Online QA session. We thank the co-chairs/orgnizers, and got good feedback from audiences at MWE WS. 
 
