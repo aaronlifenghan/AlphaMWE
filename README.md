@@ -40,6 +40,20 @@ Welcome to read our paper and the presentations
 [ppt](https://es.slideshare.net/mobile/AaronHanLiFeng/alphamwe-construction-of-multilingual-parallel-corpora-with-mwe-annotations-ppt4ws)
 
 
+# news:
+[AlphaMWE-Arabic](https://www.researchgate.net/profile/Lifeng-Han-3/publication/369327101_AlphaMWE-Arabic_Arabic_Edition_of_Multilingual_Parallel_Corpora_with_Multiword_Expression_Annotations/links/64149f2a315dfb4cce89d931/AlphaMWE-Arabic-Arabic-Edition-of-Multilingual-Parallel-Corpora-with-Multiword-Expression-Annotations.pdf) is accepted to present in [RANLP2023](https://ranlp.org/ranlp2023/) Conference: Recent Advances in Natural Language Processing, to be held in Varna, Bulgaria.
+
+[AlphaMWE-Arabic PPT](https://github.com/aaronlifenghan/AlphaMWE/blob/main/alphaMWE_arabic_ppt.pdf)
+
+[AlphaMWE-Arabic Video Presentation](https://youtu.be/i_1SujoPmC0)
+
+
+AlphaMWE was presented in MWE-LEX@COLING2020 on December 13th. Tereska and Sonia were present together with Lifeng during the Online QA session. We thank the co-chairs/orgnizers, and got good feedback from audiences at MWE WS. 
+
+We thank Prof. Agata Savary, Uni. of Tours to link AlphaMWE to the  list of language resources and tools for Polish - CLIP platform http://clip.ipipan.waw.pl/LRT 
+
+Extended journal paper conditional accepted to Journal of LRE, entitled "Towards a resource for multilingual lexicons: an MT assisted and human-in-the-loop multilingual parallel corpus with multi-word expression annotation".
+
 # Citation (asistance):
 
 Lifeng Han, Gareth Jones, and Alan Smeaton. 2020. AlphaMWE: Construction of Multilingual Parallel Corpora with MWE Annotations. Forthcoming in Joint Workshop on Multiword Expressions and Electronic Lexicons (MWE-LEX) @COLING-2020, pages 44--57. Barcelona, Spain (Online). Association for Computational Linguistics.
@@ -126,11 +140,3 @@ Dr. Ricardo Bango coming-on-way news
 We are especially grateful to all the colleagues who contributed to the creation of this open source corpus from each language pair. We thank the support and discussion we received from Roise McGagh, Paolo Bolzoni, Lorin Sweeney, Eoin Treacy and Yi Lu on the corpus in various ways. This open research project has been partially funded by ADAPT Research Centre, DCU, Ireland, and University of Manchester, UK.
 
 
-# news:
-[AlphaMWE-Arabic](https://www.researchgate.net/profile/Lifeng-Han-3/publication/369327101_AlphaMWE-Arabic_Arabic_Edition_of_Multilingual_Parallel_Corpora_with_Multiword_Expression_Annotations/links/64149f2a315dfb4cce89d931/AlphaMWE-Arabic-Arabic-Edition-of-Multilingual-Parallel-Corpora-with-Multiword-Expression-Annotations.pdf) is accepted to present in [RANLP2023](https://ranlp.org/ranlp2023/) Conference: Recent Advances in Natural Language Processing, to be held in Varna, Bulgaria.
-
-AlphaMWE was presented in MWE-LEX@COLING2020 on December 13th. Tereska and Sonia were present together with Lifeng during the Online QA session. We thank the co-chairs/orgnizers, and got good feedback from audiences at MWE WS. 
-
-We thank Prof. Agata Savary, Uni. of Tours to link AlphaMWE to the  list of language resources and tools for Polish - CLIP platform http://clip.ipipan.waw.pl/LRT 
-
-Extended journal paper conditional accepted to Journal of LRE, entitled "Towards a resource for multilingual lexicons: an MT assisted and human-in-the-loop multilingual parallel corpus with multi-word expression annotation".
